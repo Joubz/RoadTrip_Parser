@@ -15,6 +15,10 @@ public class Monument {
         this.name=name;
     }
 
+    public String toString() {
+        return "Monument is "+getName()+ ", address is "+getAddress()+", it's a "+getHistoric()+" and opening hours are : "+getHopeningHours();
+    }
+
     /**
      *
      * @return

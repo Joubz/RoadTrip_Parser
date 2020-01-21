@@ -8,4 +8,6 @@ Pour voir les modifs : git status
 
 Pour add : git add 'nomFichier'
 
+Pour commit : git commit -m 'message'
+
 pour push : git push
