@@ -1,6 +1,15 @@
 # RoadTrip_Parser
 
 
+https://www.openstreetmap.org/#map=13/41.8872/12.4892
+
+https://overpass-turbo.eu/
+
+Commande exemple : name:fr="Colisée" in "Rome"
+
+
+## Commandes git
+
 Pour cloner le projet :
 Dans un répertoire : Git Bash : git clone https://github.com/Joubz/RoadTrip_Parser.git
 

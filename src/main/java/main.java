@@ -40,9 +40,9 @@ public class main {
 
             String address = (String) monumentObject.get("addr:street");
             String historic = (String) monumentObject.get("historic");
-            String name = (String) monumentObject.get("name");
+            String name = (String) monumentObject.get("name:fr");
             String openingHours = (String) monumentObject.get("opening_hours");
-            
+
             Monument monument1 = new Monument(name);
             monument1.setHopeningHours(openingHours);
             monument1.setAddress(address);
